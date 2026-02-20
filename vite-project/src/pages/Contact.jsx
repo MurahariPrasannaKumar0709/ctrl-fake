@@ -514,6 +514,7 @@ const Contact = () => {
               opacity-[0.12]
               select-none
               whitespace-nowrap
+              [mask-image:linear-gradient(to_bottom,black_50%,transparent_100%)]
             "
           >
             CONTACT
