@@ -779,7 +779,7 @@ const HeroSection = () => {
               uppercase text-white font-['Oswald'] font-[600]
               text-[50px] leading-[50px] tracking-[-3px]
               sm:text-[90px] sm:leading-[90px] sm:tracking-[-6px]
-              md:text-[220px] md:leading-[220px] md:tracking-[-10px]
+              md:text-[170px] md:leading-[220px] md:tracking-[-10px]
             "
             style={{
               textShadow: "0px 0px 100px rgba(255,255,255,0.5)",
@@ -801,7 +801,7 @@ const HeroSection = () => {
               uppercase font-oswald font-[650] text-center
               text-[50px] leading-[50px] tracking-[-3px]
               sm:text-[90px] sm:leading-[90px] sm:tracking-[-6px]
-              md:text-[220px] md:leading-[220px] md:tracking-[-10px]
+              md:text-[150px] md:leading-[220px] md:tracking-[-10px] lg:text-[220px]
             "
             style={{
               backgroundImage: "linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.18) 100%)",

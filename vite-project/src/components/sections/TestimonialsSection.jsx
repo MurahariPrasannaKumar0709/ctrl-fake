@@ -524,7 +524,7 @@ const TestimonialsSection = () => {
             uppercase
             text-white
             opacity-[0.12]
-            text-[70px] md:text-[220px]
+            text-[70px] md:text-[190px]
             leading-[70px] md:leading-[220px]
             tracking-[-4px] md:tracking-[-10px]
             whitespace-nowrap

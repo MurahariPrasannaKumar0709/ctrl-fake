@@ -605,6 +605,7 @@ const BenefitsSection = () => {
               className="
                   font-['Oswald']
                   text-[80px] sm:text-[140px] lg:text-[220px]
+                  md:text-[190px]
                   leading-[80px] sm:leading-[140px] lg:leading-[220px]
                   tracking-[-4px] lg:tracking-[-10px]
                   font-[600]
